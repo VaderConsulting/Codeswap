@@ -1,6 +1,6 @@
 # Codeswap
 
-VB.NET working copy of `Codeswap` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Codeswap.
+Incomplete CodeSwap tree: `dnconfig.xml` points at shared Upload/Download folders for swapping code, plus a redacted VB.NET WinForms tray sample (`Download/Form1.vb.example`) that demos Shell_NotifyIcon balloon tips. No full `.vbproj`/`.sln` in-tree — treat as config + example sources.
 
 **Source last updated:** 2026-08-27 · **Language:** VB.NET · **Target:** .NET Framework (legacy VB.NET) · **Output:** module / sources
 
