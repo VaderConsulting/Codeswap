@@ -22,7 +22,7 @@ Open the `.vbproj` / `.sln` in Visual Studio.
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Codeswap`.
+Working copy from my Historical Dev folder `VB/Old/Codeswap`.
 
 ## License
 
